@@ -10,7 +10,7 @@ Kit inicial para auditoria de acessibilidade de aplicações frontend usando nav
 - Mantém a execução informativa por padrão; `--fail-on-violations` permite ativar falha do processo quando houver violações.
 - Inclui Skills de revisão e fundação em `.github/skills/`.
 
-O scanner encontra apenas falhas que as regras selecionadas conseguem detectar no estado e nas rotas executadas. Ele não avalia sozinho todos os critérios WCAG, conteúdo e significado, jornadas completas, tecnologias assistivas ou conformidade. Leia o plano em `outputs/planejamento-tecnico-accessibility-toolkit.md`.
+O scanner encontra apenas falhas que as regras selecionadas conseguem detectar no estado e nas rotas executadas. Ele não avalia sozinho todos os critérios WCAG, conteúdo e significado, jornadas completas, tecnologias assistivas ou conformidade. Leia o plano em [outputs/planejamento-tecnico-accessibility-toolkit.md](outputs/planejamento-tecnico-accessibility-toolkit.md).
 
 ## Requisitos
 
